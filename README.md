@@ -30,5 +30,4 @@ If you're interested in discussing potential collaborations or opportunities, fe
 I enjoy exploring the intersection of technology and human behavior, whether it's through analyzing user data or designing innovative employee engagement initiatives.
 
 ---
-This description highlights my academic background, technical and HR skills, career goals, and personal qualities. Customize it further to align with your specific interests and aspirations.
-```
+
